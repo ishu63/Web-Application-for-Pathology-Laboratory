@@ -1,0 +1,26 @@
+*+html{overflow:auto;}
+.layouts-nav li a,dl.def-list dt span,#constuction-box,#intro-box,.social_icons,#slider .pagination,.numStatus,.kwicks li,.pro_menu ul,.pro_menu ul ul{behavior:url(js/PIE.htc)}
+#advanced ul li.trigger_adv > span,dl#accordion dt,.button,input[type="text"],input[type=password],textarea,.btn,.description-light,.exampletip,.description-dark,.success,.warning,.danger,.inf,.elements-list  code,.table-bordered,.table-bordered tr th,.table-bordered tr td,.info,.layouts-menu li a,.icons-menu li a,.structuce,.struct,.struct2,.struct-main,.grid-box,.tab-content,.image_style2 img,.image_style3 img, .image_style3, .text-shadow, .lifted,.curled,.perspective,.raised,.curved-vt-2,.curved-hz-2,.image_round,.image_card,.image_embossed,.image_soft-embossed,.image_cut_out,.image_morphing_glowing,.image_glossy,.image_glossy span,.image_reflection span,.splitter li div,.splitter li li a,.splitter li li.selected-1 a,.splitter li li.selected-2 a,.splitter li li.selected-0 a,.splitter li li.last a,.icon,.icon_social,.range_slider,.handle,.range,.flickr_badge_image a,.flickr_badge_image a img,.tweet_list li,#constuction-box .inside,.tabs-nav li a,.slide-down-box dt,.slide-down-box dd,dl#accordion dt a,dl#accordion dt.active a,.testim_buttons a,#prev_testim,#next_testim,.description-box dd,code.small-box-code,code.small-box-code2,#choices li.active, #funct_caption,#show, #show1,.quotes_2,.style_1,.style_2,.style_3,.style_4,.pro_menu li a
+{behavior:url(js/PIE.htc);position:relative}
+
+.image_style3{ border:1px solid #ddd; padding:3px;}
+#boxes-filter .image_style3,#boxes-filter .image_style3 img,#dialog3 input{ border-radius:0;}
+.perspective:before{box-shadow:0px 0 8px rgba(0, 0, 0, 0.4);}
+.progress{filter:alpha(opacity=60)}
+.kwicks:hover li img,.kwicks:hover li .kwicks-banner{filter:alpha(opacity=40)}
+.kwicks:hover li:hover img,.kwicks:hover li:hover .kwicks-banner{filter:alpha(opacity=100)}
+.button1,.button2,.play{bottom:35px;}
+.button2{ left:512px;}
+.gallery_bg,.kwicks-wrapper,#slider{padding:5px;border:1px solid #999;}
+.img-pags li.active a,.img-pags li a:hover{ border:1px solid #999;padding:4px;}
+.img-pags li a img{filter:alpha(opacity=60)}
+.img-pags li.active a img,.img-pags li a:hover img{filter:alpha(opacity=100)}
+#advanced span.trigger strong{filter:alpha(opacity=0);}
+#advanced.closed span.trigger strong{filter:alpha(opacity=100);}
+#testimonials>div{ background:none !important;}
+.icons_social2 li.last {margin-top:-2px;}
+.icons.social li.last {margin-top: -3px;}
+
+
+.services a em img.image-hover{ display:none;}
+.services:hover a em img.image-hover{ display:block;}

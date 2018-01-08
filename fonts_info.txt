@@ -1,0 +1,4 @@
+List of Fonts used in template 
+
+Anton	http://www.google.com/webfonts/family?family=Anton&subset=latin
+Arimo 	http://www.google.com/webfonts/family?family=Arimo&subset=latin

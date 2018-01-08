@@ -1,0 +1,126 @@
+input[type="text"],input[type=password],input[type="int"],input[type="int1"],input[type="date"],textarea{font-family:Arial, Helvetica, sans-serif;color:#000;font-size:1em;vertical-align:middle;font-weight:normal;padding:7px;margin:0;background:#fff;border:1px solid #ddd;outline:none;width:270px; overflow:hidden;}
+/* Typography Page Forms */
+	#contact-form label{ min-height:40px; display:block;}
+	#contact-form input,#contact-form  textarea{ border-radius:3px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#contact-form  textarea{ resize:none; height:170px;}
+#contact-form .buttons{ position:relative; padding:20px 0  0 0; text-align:right;}
+	#contact-form .buttons span{ display:inline-block; margin-right:15px;}
+#contact-form .success,#contact-form .error,#contact-form .empty{display:none; text-align:left;}
+#contact-form .error,#contact-form .empty{position:relative; color:red; font-size:11px; top:0px; left:10px;}
+#contact-form .success,#contact-form .success strong{ color:#000; background:none; box-shadow:none;}
+#contact-form .success{ padding-bottom:5px;-pie-background:none;}
+#contact-form2{}
+	#contact-form2 label{ min-height:60px; display:block;}
+	#contact-form2 input,#contact-form2  textarea{font-family:Arial, Helvetica, sans-serif;color:#6a6a6a;font-size:1em;vertical-align:middle;font-weight:normal;padding:16px 15px 17px;margin:0;background:;border:1px solid #e4e4e4;outline:none;width:264px; overflow:hidden;}
+	#contact-form2  textarea{ resize:none; height:207px;width:438px;}
+#contact-form2 .buttons{ position:relative; padding:20px 0  0 0; text-align:right;}
+	#contact-form2 .buttons span{ display:inline-block; margin-left:18px;}
+#contact-form2 .success,#contact-form2 .error,#contact-form2 .empty{display:none; text-align:left;}
+#contact-form2 .error,#contact-form2 .empty{position:relative; color:red; font-size:11px; top:0px; left:10px;}
+#contact-form2 .success,#contact-form2 .success strong{ color:#000; background:none; box-shadow:none;}
+#contact-form2 .success{ padding-bottom:5px;-pie-background:none;}
+/* ------------------------------------------------ */
+#search2{ position:relative; overflow:hidden; padding:27px 0 0 0;}
+	#search2 input{font-family:Arial, Helvetica, sans-serif;color:#000;font-size:1em;vertical-align:middle;font-weight:normal;padding:7px 8px 8px;margin:0;background: url(../images/bg-input.png) 0 0 repeat;border:1px solid #e4e4e4;outline:none;width:178px; overflow:hidden;}
+	#search2 a{ display:block; float:left; background:#1f2025; font:11px/15px Arial, Helvetica, sans-serif; text-transform:uppercase; color:#eaeaea; padding:7px 13px 10px 15px;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
+	#search2 a:hover{ text-decoration:none; background:#efeeee; color:#212121;}
+/* ------------------------------------------------ */
+#search3{ position:relative; overflow:hidden; padding:18px 0 0 0;}
+	#search3 div{ margin-right:0px;}
+	#search3 input{font-family:Arial, Helvetica, sans-serif;color:#000;font-size:1em;vertical-align:middle;font-weight:normal;padding:7px 8px 8px;margin:0;background: url(../images/bg-input.png) 0 0 repeat;border:1px solid #e4e4e4;outline:none;width:175px; overflow:hidden;}
+	#search3 a{ display:block; float:left; background:#1f2025; font:11px/15px Arial, Helvetica, sans-serif; text-transform:uppercase; color:#eaeaea; padding:8px 13px 9px 15px;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-o-transition:all 0.5s ease;transition:all 0.5s ease;}
+	#search3 a:hover{ text-decoration:none; background:#efeeee; color:#212121;}
+/* ------------------------------------------------ */
+#form1{}
+	#form1 label{ display:block; position:relative; min-height:40px;}
+	#form1 input[type="text"]{ border-radius:3px; width:180px;}
+	#form1 input[type="text1"]{ border-radius:3px; width:350px;}
+	#form1 input[type="int"]{ border-radius:3px; width:180px;}
+	#form1 input[type="int1"]{ border-radius:3px; width:50px;}
+	#form1 input[type="date"]{ border-radius:3px; width:180px;}
+	#form1 input[type="radio"]{ margin:5px 0 0;}
+	#form1 input[type="checkbox"]{ margin:10px 0 0;}
+	#form1 textarea{ resize:none;border-radius:3px; height:120px;}
+	#form1 select{ width:195px; border:1px solid #ddd; padding:5px; border-radius:3px;}
+	#form1 span.text-form{ display:inline-block; padding:5px 0 0; min-width:90px;}
+	#form1 div.text-form{ padding:5px 0 10px 0;}
+	#form1 .text-form2{ margin:2px 10px 0 8px; display:inline-block;}
+	#form1 .text-form3{ margin:7px 0px 0 8px; display:inline-block;}
+	#form1 .btns{ padding:10px 0 0 0;}
+/* ------------------------------------------------ */
+#form2{}
+	#form2 label{ display:block; position:relative; min-height:40px;}
+	#form2 input[type="text"]{ border-radius:3px; width:180px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#form2 input[type="text"].age{ border-radius:3px; width:50px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#form1 input[type="text1"]{ border-radius:3px; width:350px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#form2 textarea{ resize:none;border-radius:3px; height:120px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#form2 span.text-form{ display:inline-block; padding:5px 0 0; min-width:90px;}
+	#form2 div.text-form{ padding:5px 0 10px 0; min-width:90px;}
+	#form2 .text-form2{ margin:3px 0 0 5px;}
+	#form2 .text-form3{ padding:8px 0px 5px 5px;}
+	#form2 .btns{ padding:10px 0 0 0;}	
+.pad-form{ padding-top:5px;}
+.pad-form2{ padding-top:25px;}
+/* ------------- * Selects * ------------- */
+#form2 .jqTransformSelectWrapper {position:relative; float:left; width:194px !important;}
+#form2 .jqTransformSelectWrapper div span{ display:block;float: none; width:184px !important;background:#fff;position:relative;white-space: nowrap;overflow:hidden;cursor:pointer;border:1px solid #ddd;padding:5px; border-radius:3px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+#form2 .jqTransformSelectWrapper  a.jqTransformSelectOpen {display: block;position:absolute; right:2px;top:4px;width:22px;height:21px;background: url(../images/select.png) no-repeat  0 0;}
+#form2 .jqTransformSelectWrapper  a.jqTransformSelectOpen:hover{ background-position:0 -21px;}
+#form2 .jqTransformSelectWrapper ul {
+	position: absolute;
+	top: 31px;
+	left: 0px;
+	background-color: #FFF;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: auto;
+	overflow-y: auto;
+	z-index:10;
+	border:1px solid #ddd;
+	width:194px !important;
+	border-radius:3px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+#form2 .jqTransformSelectWrapper ul a {display: block;padding:5px;color:#000;font-size:12px;padding-left:12px;}
+#form2 .jqTransformSelectWrapper ul a.selected {color: #B94A48;}
+#form2 .jqTransformSelectWrapper ul a:hover, .jqTransformSelectWrapper ul a.selected:hover {color: #fff; background:#ddd;text-decoration:none;}
+/* ------------- * Radios * ------------- */
+#form2 .jqTransformRadioWrapper {float: left;display:block; margin:5px 0 0;}
+#form2 .jqTransformRadio {
+	background: transparent url(../images/radio.png) 0 0px no-repeat;
+	vertical-align: middle;
+	height:16px;
+	width:16px;
+	display:block;/*display: -moz-inline-block;*/
+}
+/* ------------- * Checked - Radio * ------------- */
+#form2 a.jqTransformChecked {background: transparent url(../images/radio.png) 0 -17px no-repeat;}
+/* -- * Checkboxes * -- */
+#form2 span.jqTransformCheckboxWrapper{display:block;float:left; padding:10px 0 0 0;}
+#form2 a.jqTransformCheckbox {background: transparent url(../images/checkbox.png) 0 0px no-repeat;vertical-align: middle;height:15px;width:15px;display:block;/*display: -moz-inline-block;*/}
+/* -- * Checked * -- */
+#form2 .jqTransformCheckboxWrapper a.jqTransformChecked {background: transparent url(../images/checkbox.png) 0 -16px no-repeat;}
+/* ------------- * Hidden - used to hide the original form elements * ------------- */
+#form2 .jqTransformHidden {display: none;}
+/* ------------------------------------------------ */
+#search,#subscribe{ vertical-align:middle;}
+	#search input,#subscribe input{ width:180px; border-radius:3px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#search .btn,#subscribe .btn{ padding:7px 10px; margin-top:-1px;}
+/* ------------------------------------------------ */
+#log_in{ vertical-align:middle}
+	#log_in input{ width:90px; border-radius:3px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#log_in .btn{ padding:7px 10px; margin-top:-1px;}
+/* ------------------------------------------------ */
+#log_in2{ vertical-align:middle; padding:10px 0 0 0; width:274px;}
+	#log_in2 label{ display:block; min-height:40px;}
+	#log_in2 input{ width:258px; border-radius:3px; box-shadow:inset 0 0 5px rgba(0,0,0,.1);}
+	#log_in2 .btn{ padding:7px 10px;}
+	#log_in2 .buttons{ text-align:right; padding:5px 0;}
+/* ------------------------------------------------ */
+#newsletter{vertical-align:middle; padding:30px 0 0 0;}
+#newsletter input{ width:376px; border-radius:2px 0 0 2px; color:#8b8b8b; background:#eeeeee; border:1px solid #cdcdcd; border-right:none;padding:9px;}
+#newsletter .btn{ padding:9px 15px 10px; margin-top:0; margin-left:0; box-shadow:none; border-radius:0 2px 2px 0; border:1px solid #cdcdcd;}
+#newsletter .btn:hover{
+	background: -webkit-linear-gradient(top, #E0E0E0, white);
+	background:    -moz-linear-gradient(top, #E0E0E0, white);
+	background:     -ms-linear-gradient(top, #E0E0E0, white);
+	background:      -o-linear-gradient(top, #E0E0E0, white);}

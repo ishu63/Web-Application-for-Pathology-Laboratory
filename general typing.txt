@@ -1,0 +1,109 @@
+NOTES:
+1. check s.widal page for printing conditions
+
+CHACHU:
+1.take initial 36 line from print_blood_for_hiv.php to all print. all done!!!!!
+2. also add patient details b/w contain_24 and heanding(green line to green line) all done!!!!!!
+
+
+HIV blood test
+LEGEND
+1. Positive initial screening test for HIV antibody should be reconfirmed by ELISA test from another sample of the same patient collected after an interval of few days using ELISA test kit from another manufacturer.
+2. Final confirmation should be done by performing Western blot test.
+3. A negative test does not exclude the possibility of prior exposure especially a recent one.
+4. Final diagnosis of HIV infection must be based on clinical corelation with laboratory test result.
+
+
+ANTENAL PROFILE
+NOTES :
+1. Positive initial screening test for HIV antibody should be reconfirmed by ELISA test from another sample of the same patient collected after an interval of few days using ELISA test kit from another manufacturer.
+2. Final confirmation should be done by performing a western blot test.
+3. In general the sensitivity and specificity of all HIV screening test kits range between 97.00 and 99.9 %. So that an occational false positive & false negative results can occur.
+4. A negative test does not exclude the possibility of prior exposure especially a recent one.
+5. Final diagnosis of HIV infection must be based on clinical corelation with laboratory test result.
+
+
+URINE FOR PREGNANCY TEST
+Interpretation & Limitations :
+1. Negative: 	(a) Non pregnant woman,
+				(b) Very early pregnancy,
+				(c) Subclinical abortion.
+2. Positive result becoming negative on subsequent testing :-
+				Subclinical or spontaneous abortion of early gestation.
+3. Positive:	(a) Pregnancy.
+				(b) The test may remain positive for variable time after subclinical or spontaneous abortion & delivery.
+				(c) Ectopic gestation.
+				(d) Manopause(rarely).
+				(e) Trophoblastic disease.
+				(f) Some non-trophoblastic neoplasma.
+				(g) Choriocarcinoma and hydatiform mole.
+				
+				
+S. WIDAL TEST
+INTERPRETATION :
+1. 'H' and 'O' agglutination appears in the serum after five to seven days.
+2. 'O' agglutinins appears before 'H' & is usually higher at first. Later on 'H' is higher
+3. Usually criteria for diagnosis is both 'O' and 'H'.
+4. Positive reaction could occur on account of typhoid vaccination or previous typhoid infection.
+5. Non specific febrile disease may cause this titre to increase. (anamnestic reaction)
+6. Rising titre is a better parameter for proper evaluation.
+7. Early treatment with specific drug may cause titre to remain negative.
+8. Increased in 'O' titre may reflect infection with any salonella organisms.
+9. Urine or stool culture is preferable when illness is of more than four weeks duration.
+10. Result of slide technique should always be confirmed by Tube technique.
+
+
+
+MANTOUX TEST
+REACTIONS ARE CLASSIFIED AS FOLLOWS :-
+Positive		: Induration measuring 10 mm or more. This indicates hyper sensitivity to tuberculoprotein and indicates past or present infection with Mycobacterium tuberculosis.
+Weak Positive	: Induration measuring between 5 & 9 mm Retesting is indicated at another site. This retesting is desirable to rule out cross reactions from other mycobacterial infections.
+Negative		: Induration of less than 5 mm. This indicates lack of hyper sensitivity to tuberculoprotein & tuberculosis infection is highly unlikely. It should be noted that reactivity to tuberculin may be depressed or supressed for as long as hours, weeks by viral infections. live virus vaccines (e.g. easles, smallpox, polio, rubella, etc.) or by administration of orticosteroids. Malnutrition may also have a similar effect. A positive tuberculin reaction dose not necessarily signify the presence of active disease. Further diagnostic procedures should be carried out before diagnosis of tuberculosis is made.
+
+
+
+<div class="pro_main">
+			<a href="" class="pro_logo"></a>
+				<ul class="pro_menu">
+					<li><a href="index.html"><img src="images/pro_home.png" alt=""></a></li>
+					<li><a href="404.html">Transaction<span></span></a>
+						<ul>	
+							<li><a href="eklavya.html">Registration</a>
+								<ul>
+									<li><a href="anshumat.hyml">1 Hematology profile</a></li>
+									<li><a href="anshumat.hyml">2 Bio Chemistry</a></li>
+									<li><a href="anshumat.hyml">3 Urine Examination</a></li>
+									<li><a href="anshumat.hyml">4 Immunology</a></li>
+									<li><a href="anshumat.hyml">5 Pregnancy Profile</a></li>
+									<li><a href="anshumat.hyml">6 Stool Examination</a></li>
+									<li><a href="anshumat.hyml">7 SputumExaminition</a></li>
+									<li><a href="anshumat.hyml">8 Endocrinology</a></li>
+									<li><a href="anshumat.hyml">9 Bacteriology</a></li>
+									<li><a href="anshumat.hyml">10 Miscellaneous</a></li>
+									<li><a href="anshumat.hyml">11 Special Report</a></li>
+									<li><a href="anshumat.hyml">12 Blood Examination</a></li>
+									<li><a href="anshumat.hyml">13 Others</a></li>
+									<li><a href="anshumat.hyml">14 Customise Report</a></li>
+									<li><a href="anshumat.hyml">15 Comparision Report</a></li>
+								</ul>
+							</li>
+							<li><a href="anshumat.hyml">Reports Entry</a></li>
+							<li><a href="yuyutsu.html">Reports Editor</a></li>
+							<li><a href="ashwamedh.html">Report Printing Tool</a></li>
+							<li><a href="pushpak.html">Print Envelope</a></li>
+							<li><a href="garuda.html">Reports Delete</a></li>
+							<li><a href="garuda.html">Due Reciept</a></li>
+							<li><a href="garuda.html">Locate Patient</a></li>
+							<li><a href="garuda.html">Out Source Laboratory</a></li>
+							<li><a href="garuda.html">Income Expence</a></li>
+						</ul>
+					</li>
+					<li><a href="layouts.html">Master</a></li>
+					<li><a href="typography.html">reports</a></li>
+					<li><a href="portfolio.html">utility<span></span></a></li>
+					<li><a href="misc.html">stocks<span></span></a></li>
+				</ul>
+			<div class="clear">
+			</div>
+		</div>
+	</div>
